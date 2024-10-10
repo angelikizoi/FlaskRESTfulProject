@@ -1,0 +1,18 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+.idea/
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# SQLite database
+*.sqlite3
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
